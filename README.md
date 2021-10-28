@@ -13,9 +13,7 @@ Schedule announcement posts to chat forums, social media, and more from a single
 https://github.com/1Announce/Group-A-Web-App
 
 ### Back-End: ExpressJS REST API
-Create skeleton backend in Express
 https://github.com/1Announce/Group-A-Back-End
 
 ### Teams Chat Bot: Microsoft Teams Bot Framework
-Create skeleton chatbot in Teams
 https://github.com/1Announce/Group-A-Teams-Bot
