@@ -1,0 +1,11 @@
+Web App:
+- AppComponent
+- CreateAnnouncementComponent
+- ManageAnnouncementsComponent
+- ModifyAnnouncementDialogComponent
+- UserProfileComponent
+- NavComponent
+
+Back-End:
+- Announcement { id: string, content: Message[] }
+- Message { text: string, attachments: [ ByteData | link ] }
