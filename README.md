@@ -15,5 +15,5 @@ https://github.com/1Announce/Group-A-Web-App
 ### Back-End: ExpressJS REST API
 https://github.com/1Announce/Group-A-Back-End
 
-### Teams Chat Bot: Microsoft Teams Bot Framework
-https://github.com/1Announce/Group-A-Teams-Bot
+### Announcement Bot: Discord Webhook Bot
+https://github.com/1Announce/Group-A-Discord-Bot
