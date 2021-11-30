@@ -1,10 +1,20 @@
 Web App:
-- AppComponent
-- CreateAnnouncementComponent
-- ManageAnnouncementsComponent
-- ModifyAnnouncementDialogComponent
-- UserProfileComponent
-- NavComponent
+- FieldArrayForm
+- ForgotPassword
+- NavBar
+- PrivateRoute
+- ShowResults
+- SignIn
+- Signup
+- Tables
+- AuthContext
+- AuthMethods
+- CreateAnnouncementPage
+- HomePage
+- SignupPage
+- SplashPage
+- store
+- firebase
 
 Back-End:
 - Announcement { id: string, content: Message[] }
