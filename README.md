@@ -15,5 +15,5 @@ https://github.com/1Announce/Group-A-Web-App
 ### Back-End: ExpressJS REST API
 https://github.com/1Announce/Group-A-Back-End
 
-### Announcement Bot: Discord Webhook Bot
+### Discord Announcement Bot: Python Webhook Agent
 https://github.com/1Announce/Group-A-Discord-Bot
